@@ -13,6 +13,7 @@
 >#### <code>###### This is an H6</code>
 >###### This is an H6
 <br><br>
+<<<<<<< HEAD
 > * <code>===</code>, <code>---</code> 사용 예시<br>
 ![image](https://user-images.githubusercontent.com/120539323/221498467-94702af7-5833-4c9f-9e48-f373f7719a08.png)  
 >이렇게 원하는 글자 밑에 === 혹은 --- 를 넣어주면 된다.
@@ -42,3 +43,9 @@
 물론 이렇게 했을 때 단점도 있다. 잘못해서 이 경로 수정했을 때, 이런식으로 하면 다시 못찾음. 그래서 보완책으로 repository 에 사진 올려놓고 거기 경로 따와도 되고, 뭐 어짜피 커밋할거면 지난 커밋 파일에서 경로 찾아와도 되긴 한다.
 
 <br>
+=======
+>2. <code>===</code>, <code>---</code> 사용 예시<br>
+![image](https://user-images.githubusercontent.com/120539323/221498467-94702af7-5833-4c9f-9e48-f373f7719a08.png)  
+>이렇게 원하는 글자 밑에 === 혹은 --- 를 넣어주면 된다.
+<br><br>
+>>>>>>> origin/main
