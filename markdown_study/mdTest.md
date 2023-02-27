@@ -40,4 +40,5 @@
 <img src="https://user-images.githubusercontent.com/120539323/221564314-b1a87d7d-010b-4a91-a1ed-b3e2921cd736.png" alt="Write-src">
 
 물론 이렇게 했을 때 단점도 있다. 잘못해서 이 경로 수정했을 때, 이런식으로 하면 다시 못찾음. 그래서 보완책으로 repository 에 사진 올려놓고 거기 경로 따와도 되고, 뭐 어짜피 커밋할거면 지난 커밋 파일에서 경로 찾아와도 되긴 한다.
+
 <br>
