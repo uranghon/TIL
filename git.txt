@@ -41,3 +41,4 @@ HEAD^ : 가장 최근의 커밋이 취소된다. (기본옵션 mixed)
 git branch [새브랜치명] : 브랜치 생성
 git switch [브랜치명] : 브랜치 이동
 git switch -c [새브랜치명] : 브랜치 생성 및 이동
+0Q3QVY81
